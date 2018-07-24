@@ -3,3 +3,6 @@ title: Productions Marguerite
 description: Evenements en tout genre
 show_downloads: false
 google_analytics: UA-146415-4
+logo: assets/img/marguerite.jpg
+github:
+  is_project_page: false

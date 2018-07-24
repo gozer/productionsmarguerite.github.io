@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Bienvenue
 
-You can use the [editor on GitHub](https://github.com/gozer/productionsmarguerite.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam id luctus velit. Nam vehicula ipsum turpis, eget laoreet dui lacinia at. Vestibulum molestie placerat ante euismod lacinia. In rhoncus, enim ac convallis posuere, enim ante sagittis risus, et rutrum mauris leo eget nisi. Sed quis consequat sem. Morbi pellentesque eget ex vel tristique. Aliquam blandit enim ut fermentum venenatis. Pellentesque mollis enim at mattis efficitur. Nulla et bibendum dui. Donec condimentum rhoncus arcu, eu rutrum felis aliquet sit amet. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Details
 
-### Markdown
+In hac habitasse platea dictumst. Integer venenatis, orci nec tempor interdum, orci odio iaculis lacus, lacinia consequat dolor lacus id elit. Donec nunc ex, elementum ac augue eu, interdum tincidunt turpis. Vivamus a tristique turpis. Nullam consectetur est tellus, vel faucibus ligula commodo ut. Vestibulum a interdum enim. Nam ac orci tristique, interdum purus ullamcorper, accumsan ex. Nam mattis luctus porttitor. Morbi quis nisl ut metus consectetur blandit ut quis sapien. Pellentesque vehicula elementum odio a bibendum. Quisque turpis mauris, varius eget lectus quis, facilisis consectetur nisl. Sed ut lectus rutrum, maximus nisi sit amet, fringilla ex. Sed convallis id lorem et auctor. Nunc sit amet sollicitudin lacus. Nam dapibus interdum sagittis. Mauris eget velit mattis est fermentum laoreet. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Contacts
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gozer/productionsmarguerite.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+In tincidunt velit eu odio dapibus hendrerit. Donec vestibulum, enim viverra finibus imperdiet, risus elit mollis sem, ac dignissim odio sem vitae lorem. Maecenas dapibus leo erat, ac aliquet enim volutpat quis. Nulla venenatis risus orci. Ut non lacus vel augue tincidunt rutrum. Nullam mauris arcu, luctus vitae sagittis non, lobortis in orci. Nam malesuada leo nec dictum iaculis. Pellentesque molestie venenatis nisi, nec consequat magna consequat sit amet. Praesent luctus volutpat iaculis. Curabitur tincidunt lacus quis tincidunt fringilla. Suspendisse at lacus non felis laoreet convallis. Proin finibus sollicitudin tortor, vitae dignissim enim. Quisque eu eros sit amet ligula venenatis feugiat. Sed fringilla fermentum lacus, a convallis leo facilisis id. Mauris ultrices nibh nec sapien fringilla, vel rutrum tortor tincidunt. 

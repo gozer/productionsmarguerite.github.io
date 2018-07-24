@@ -8,4 +8,4 @@ In hac habitasse platea dictumst. Integer venenatis, orci nec tempor interdum, o
 
 ### Pour nous contacter
 
-Josee Belley  &lt;<josee@productionsmarguerite.com>&gt;
+Josee Belley  &lt;<joseebelley@productionsmarguerite.com>&gt;
